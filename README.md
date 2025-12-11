@@ -1,4 +1,4 @@
-# Online_Shopping_Platform_Product_Consumption_Comparison
+# Online Shopping Platform Product Consumption Comparison
 Key word: Python crawler; Newegg.com website; GPU, SSD analysis and visualization
 # DSCI 510 Final Project Online Shopping Platform Product Consumption Comparison
 ## Web Scraping & Product Analytics for RTX 5090 GPUs and 2TB SSDs
